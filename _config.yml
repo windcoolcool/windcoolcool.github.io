@@ -2,7 +2,7 @@
 
 title:            Minimal Mistakes
 locale:           en_US
-url:              http://mmistakes.github.io/minimal-mistakes
+url:              http://windcoolcool.github.io
 
 
 # Jekyll configuration
@@ -26,7 +26,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Han
+  name: 凉凉
   avatar: bio-photo.jpg
   bio: "Just another boring, time traveling, tattooed, designer from Buffalo New York."
   email: michael@mademistakes.com
