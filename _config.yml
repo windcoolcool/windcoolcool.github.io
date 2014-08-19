@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            凉凉
 locale:           zh_CN
 url:              http://windcoolcool.github.io
 
@@ -26,16 +26,16 @@ kramdown:
 
 # Site owner
 owner:
-  name: 凉凉
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
+  name: Han
+  avatar: han.jpg
+  bio: "写点什么."
+  email: windzhaohan@gmail.com
+  disqus-shortname: zhao-han
   twitter: #username
-  facebook: #username
+  facebook: han.zhao.564
   google:
     plus: #username
-    analytics: 
+    analytics: UA-53466069-2 
     verify: 
     ad-client: 
     ad-slot: 
